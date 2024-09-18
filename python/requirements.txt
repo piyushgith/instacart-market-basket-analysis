@@ -1,0 +1,16 @@
+pandas
+numpy
+pyspark
+psycopg2-binary
+psycopg2
+SQLAlchemy
+keras
+kafka-python
+matplotlib
+opencv-python
+plotly
+scikit-learn
+scipy
+seaborn
+statsmodels
+boto3
