@@ -2,7 +2,7 @@ pandas
 numpy
 pyspark
 ctgan
-table_evaluator
+table-evaluator
 psycopg2-binary
 psycopg2
 SQLAlchemy
